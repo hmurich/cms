@@ -1,0 +1,35 @@
+<?php
+
+return [
+    'head-middle-text' => 'Видео-студия в аренду<br> съемка и монтаж под ключ',
+    'buttonopen_modal' => 'Заказать звонок',
+    'about' => 'о нас1',
+    'service' => 'УСЛУГИ',
+    'portfolio' => 'ПОРТФОЛИО',
+    'team' => 'КОМАНДА',
+    'akcii' => 'АКЦИИ',
+    'contact' => 'Контакты',
+    'video-text-big' => 'Продюсерский центр "РУХ"',
+    'vide-text-small' => 'СОЗДАЕМ  АУДИОВИЗУАЛЬНЫЙ КОНТЕНТ <br> ВЫСОКОГО КАЧЕСТВА ПО ДОСТУПНЫМ ЦЕНАМ',
+    'about-title' => 'О нас',
+    'service-title' => 'Услуги',
+    'service-li-1' => 'ФОТО/ВИДЕО/ АУДИО',
+    'service-li-2' => 'АРЕНДА',
+    'service-li-3' => 'УСЛУГИ СПЕЦИАЛИСТОВ',
+    'service-button' => 'Заказать',
+    'arenda_some' => 'Аренда',
+    'port_title' => 'ПОРТФОЛИО',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+    'about' => '',
+
+
+];
